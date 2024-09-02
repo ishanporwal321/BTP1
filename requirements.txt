@@ -1,4 +1,4 @@
-numpy==1.26.4
+numpy==1.21.0
 pandas==1.5.3
 streamlit
 plotly
@@ -7,3 +7,4 @@ prophet==1.1
 matplotlib
 pystan==2.19.1.1
 holidays>=0.13,<0.15
+cython>=0.29.21
