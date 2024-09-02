@@ -1,11 +1,11 @@
 pip>=24.2
 cython>=0.29.21
-numpy>=1.23.2
+numpy>=1.21.0
 pandas==1.5.3
 streamlit
 plotly
 scikit-learn
-prophet==1.1
 matplotlib
 pystan==2.19.1.1
+prophet==1.1
 holidays>=0.13,<0.15
