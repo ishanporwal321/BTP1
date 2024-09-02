@@ -1,6 +1,9 @@
 numpy==1.26.4
 pandas==1.5.3
 streamlit
+plotly
+scikit-learn
 prophet==1.1
 matplotlib
+pystan==2.19.1.1
 holidays>=0.13,<0.15
